@@ -2,3 +2,4 @@ scikit-learn
 Sentence-Transformers
 torch
 pandas
+openpyxl
