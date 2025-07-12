@@ -80,7 +80,8 @@ Tests are written using **pytest** and are located in `test_project.py`. Two mai
   [Original code has logic built in. Core logic was simply split to cover the testing requirement of CS50P.]
 
 - Semantic Matching: Unlike keyword-based chatbots, this app uses SentenceTransformer to allow flexible inputs like “my mind feels foggy” → matches "brain fog".
-[Initially I wanted to use AI features for the chatbot, however due to A) monetary restrictions with AI APIs and B) hardware restrictions (im running and coding all of this on a 4 year old laptop), I had to shift to semantic matching. Initial code used large volumes of dictionaries that were painstakingly made to fit each and every response a user could make, however that proved difficult as you had to give the exact phrases instead of natural language]
+  
+[Initially I wanted to use AI features for the chatbot, however due to A) monetary restrictions with AI APIs and B) hardware restrictions (im running and coding all of this on a 8 year old laptop), I had to shift to semantic matching. Initial code used large volumes of dictionaries that were painstakingly made to fit each and every response a user could make, however that proved difficult as you had to give the exact phrases instead of natural language, thus the choice to use semantic matching using sentencetransformer]
 
 ---
 
