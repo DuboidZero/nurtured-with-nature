@@ -82,5 +82,5 @@ Tests are written using **pytest** and are located in `test_project.py`. Two mai
 
 ---
 
-##💚 Built With Purpose
+## 💚 Built With Purpose
 - This project blends modern AI tools with ancient healing wisdom to help people slow down, reflect, and reconnect with nature.
