@@ -1,3 +1,9 @@
+# NURTURED WITH NATURE
+#### Video Demo:  <URL HERE>
+#### Description:
+    
+
+
 # 🌿 Nurtured with Nature
 
 **Nurtured with Nature** is a wellness-focused web application built using Streamlit. It blends mental health analysis and personalized naturopathy recommendations using AI — helping users reconnect with natural healing practices through:
