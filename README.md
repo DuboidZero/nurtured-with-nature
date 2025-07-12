@@ -80,5 +80,7 @@ Design Decisions
 - Semantic Matching: Unlike keyword-based chatbots, this app uses SentenceTransformer to allow flexible inputs like “my mind feels foggy” → matches "brain fog".
 [Initially I wanted to use AI features for the chatbot, however due to A) monetary restrictions with AI APIs and B) hardware restrictions (im running and coding all of this on a 4 year old laptop), I had to shift to semantic matching. Initial code used large volumes of dictionaries that were painstakingly made to fit each and every response a user could make, however that proved difficult as you had to give the exact phrases instead of natural language]
 
+---
+
 💚 Built With Purpose
 - This project blends modern AI tools with ancient healing wisdom to help people slow down, reflect, and reconnect with nature.
