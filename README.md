@@ -73,7 +73,7 @@ Tests are written using **pytest** and are located in `test_project.py`. Two mai
 | `test_get_remedies_and_wellness_valid_ailment` | Checks remedy and wellness return     |
 | `test_get_remedies_and_wellness_invalid_ailment` | Ensures graceful failure on unknowns |
 
-Design Decisions
+## Design Decisions
 - Modular Separation: Core logic (ML + NLP) is separated from the UI to enable testing.
   [Original code has logic built in. Core logic was simply split to cover the testing requirement of CS50P.]
 
@@ -82,5 +82,5 @@ Design Decisions
 
 ---
 
-💚 Built With Purpose
+##💚 Built With Purpose
 - This project blends modern AI tools with ancient healing wisdom to help people slow down, reflect, and reconnect with nature.
